@@ -1,0 +1,32 @@
+_repo: Alonzo-and-Melissa--Or-The-Unfeeling-Father--An-American-Tale_28112
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Jackson, Daniel
+    birthdate: 1790
+    gutenberg_agent_id: '33149'
+    url: http://www.gutenberg.org/2009/agents/33149
+  - agent_name: Mitchell, I. (Isaac)
+    alias: Mitchell, Isaac
+    deathdate: 1812
+    gutenberg_agent_id: '33151'
+    url: http://www.gutenberg.org/2009/agents/33151
+description: ''
+gutenberg_issued: '2009-02-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28112'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Revolution, 1775-1783 -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Love stories'
+- !lcsh 'Gothic fiction (Literary genre)'
+title: 'Alonzo and Melissa; Or, The Unfeeling Father: An American Tale'
+url: http://www.gutenberg.org/ebooks/28112
